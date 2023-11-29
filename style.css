@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&family=Inter&family=Roboto&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.information__portfolio {
+    height: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F7;
+}
+
+.information__help {
+    display: flex;
+    align-items: flex-end;
+}
+
+.information__designers {
+    width: 210px;
+    margin-right: 20px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19.5px;
+}
+
+.information__templats {
+    width: 120px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19.5px;
+}
+
+.information__note {
+    height: 76px;
+    display: flex;
+    align-items: center;
+}
+
+.information__settings {
+    width: 228.14px;
+    height: 39px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    right: 0px;
+    margin-right: 92px;
+}
+
+.information__work {
+    text-decoration: none;
+    color: black;
+    width: 44px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.information__about {
+    text-decoration: none;
+    color: black;
+    width: 53px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.information__contact {
+    text-decoration: none;
+    color: black;
+    width: 71px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.information__big__text {
+    width: 1440px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.information__text {
+    height: 497px;
+}
+
+.information__Jonas {
+    width: 900px;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 73.6px;
+}
+
+.information__positive {
+    width: 877px;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 73.6px;
+    color: #757575;
+}
+
+.picture {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.picture__mein {
+    display: flex;
+    justify-content: space-between;
+}
+
+.picture__2018 {
+    color: #757575;
+}
+
+.picture__right {
+    width: 47%;
+}
+
+.picture__left {
+    width: 47%;
+}
+
+.picture__item {
+    width: 100%;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+.picture__box {
+    width: 100%;
+    height: 104px;
+    background-color: #f7f7f7;
+    border-radius: 0px 0px 16px 16px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.picture__image {
+    width: 100%;
+}
+
+.picture__ratio {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.picture__desing {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 26px;
+    color: #757575;
+}
+
+.picture__air {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.picture__user {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #757575;
+}
+
+.picture__compose {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.picture__product {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: 757575;
+}
+
+.picture__situation {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.picture__identity {
+    width: 129px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #757575;
+}
+
+.picture__vertical {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.picture__pr_des {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #757575;
+}
+
+.picture__scope {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.picture__producte__design {
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+}
+
+.text {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.text__bos {
+    display: flex;
+}
+
+.text__right {
+    width: 50%;
+}
+
+.text__left {
+    width: 50%;
+}
+
+.text__about__me {
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.text__phasellus {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 42px;
+    letter-spacing: 0.28px;
+}
+
+.text__lorem {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 42px;
+    letter-spacing: 0.28px;
+}
+
+.text__vivamus {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 42px;
+    letter-spacing: 0.28px;
+}
+
+.img {
+    width: 1440px;
+    margin: 0 auto;
+    margin-top: 264px;
+}
+
+.img__man {
+    width: 1440px;
+    height: 720px;
+}
+
+.settings {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.settings__bos {
+    display: flex;
+    width: 1248px;
+    margin: 0 auto;
+}
+
+.settings__info {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #F0F0F0;
+    padding: 30px 0;
+}
+
+.settings__right {
+    width: 47%;
+}
+
+.settings__podpunkt {
+    width: 50%;
+}
